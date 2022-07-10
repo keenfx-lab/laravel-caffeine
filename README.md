@@ -6,7 +6,7 @@
 [![Packagist](https://img.shields.io/packagist/dt/GeneaLabs/laravel-caffeine.svg)](https://packagist.org/packages/genealabs/laravel-caffeine)
 
 ## Attention!
-This is a forked Laravel Caffeine package separaded from upstrem repository to fix Log.warnings while waiting for jenssegers/model to be updated. This package uses a similarly forked and jenssegers/model with a patch created by Mike Bronner. This is a temporary solution to overflowing error logs.
+This is a forked Laravel Caffeine package separated from upstrem repository to fix Log.warnings while waiting for jenssegers/model to be updated. This package uses a similarly forked jenssegers/model with a patch created by Mike Bronner. This is a temporary solution to overflowing error logs.
 
 
 ![Caffeine for Laravel masthead image.](https://repository-images.githubusercontent.com/40729869/26446500-f1b2-11e9-9611-6a2e65688de2)
