@@ -11,7 +11,7 @@
     "require": {
         "illuminate/routing": "^9.0|^10.0",
         "illuminate/support": "^9.0|^10.0",
-        "keenfx-lab/jenssegers-model": "^v1.0"
+        "keenfx-lab/jenssegers-model": "^v1.1"
     },
     "require-dev": {
         "orchestra/testbench-browser-kit": "^7.0|^8.0",
