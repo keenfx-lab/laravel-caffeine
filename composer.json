@@ -9,14 +9,14 @@
         }
     ],
     "require": {
-        "illuminate/routing": "^9.0",
-        "illuminate/support": "^9.0",
+        "illuminate/routing": "^9.0|^10.0",
+        "illuminate/support": "^9.0|^10.0",
         "keenfx-lab/jenssegers-model": "^v1.0"
     },
     "require-dev": {
-        "orchestra/testbench-browser-kit": "^7.0",
-        "orchestra/testbench-dusk": "^7.0",
-        "orchestra/testbench": "^7.0",
+        "orchestra/testbench-browser-kit": "^7.0|^8.0",
+        "orchestra/testbench-dusk": "^7.0|^8.0",
+        "orchestra/testbench": "^7.0|^8.0",
         "phpmd/phpmd": "^2.7",
         "phpunit/phpunit": "^9.5",
         "php-coveralls/php-coveralls" : "^2.2"
